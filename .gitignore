@@ -1,0 +1,10 @@
+**/__pycache__/
+.pytest_cache/
+.venv/
+pyauuth_project.egg-info/
+**/.pytest_cache/
+.ruff_cache/
+.env
+typings/
+vai_ssg.egg-info/
+pyauth.egg-info/
